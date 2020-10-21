@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactJSdemo/exhibition-app/static/css/main.7bca7b89.chunk.css",
-    "main.js": "/ReactJSdemo/exhibition-app/static/js/main.0994734e.chunk.js",
-    "main.js.map": "/ReactJSdemo/exhibition-app/static/js/main.0994734e.chunk.js.map",
-    "runtime-main.js": "/ReactJSdemo/exhibition-app/static/js/runtime-main.9119553c.js",
-    "runtime-main.js.map": "/ReactJSdemo/exhibition-app/static/js/runtime-main.9119553c.js.map",
-    "static/js/2.f7496a61.chunk.js": "/ReactJSdemo/exhibition-app/static/js/2.f7496a61.chunk.js",
-    "static/js/2.f7496a61.chunk.js.map": "/ReactJSdemo/exhibition-app/static/js/2.f7496a61.chunk.js.map",
-    "index.html": "/ReactJSdemo/exhibition-app/index.html",
-    "precache-manifest.850ee053eaa8bc0de641318e0a9eddc7.js": "/ReactJSdemo/exhibition-app/precache-manifest.850ee053eaa8bc0de641318e0a9eddc7.js",
-    "service-worker.js": "/ReactJSdemo/exhibition-app/service-worker.js",
-    "static/css/main.7bca7b89.chunk.css.map": "/ReactJSdemo/exhibition-app/static/css/main.7bca7b89.chunk.css.map",
-    "static/js/2.f7496a61.chunk.js.LICENSE.txt": "/ReactJSdemo/exhibition-app/static/js/2.f7496a61.chunk.js.LICENSE.txt"
+    "main.css": "/exhibition-app/static/css/main.7bca7b89.chunk.css",
+    "main.js": "/exhibition-app/static/js/main.a1c42d78.chunk.js",
+    "main.js.map": "/exhibition-app/static/js/main.a1c42d78.chunk.js.map",
+    "runtime-main.js": "/exhibition-app/static/js/runtime-main.c7889257.js",
+    "runtime-main.js.map": "/exhibition-app/static/js/runtime-main.c7889257.js.map",
+    "static/js/2.f7496a61.chunk.js": "/exhibition-app/static/js/2.f7496a61.chunk.js",
+    "static/js/2.f7496a61.chunk.js.map": "/exhibition-app/static/js/2.f7496a61.chunk.js.map",
+    "index.html": "/exhibition-app/index.html",
+    "precache-manifest.5226e8b24b85e70bc3a4a3583170ca66.js": "/exhibition-app/precache-manifest.5226e8b24b85e70bc3a4a3583170ca66.js",
+    "service-worker.js": "/exhibition-app/service-worker.js",
+    "static/css/main.7bca7b89.chunk.css.map": "/exhibition-app/static/css/main.7bca7b89.chunk.css.map",
+    "static/js/2.f7496a61.chunk.js.LICENSE.txt": "/exhibition-app/static/js/2.f7496a61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9119553c.js",
+    "static/js/runtime-main.c7889257.js",
     "static/js/2.f7496a61.chunk.js",
     "static/css/main.7bca7b89.chunk.css",
-    "static/js/main.0994734e.chunk.js"
+    "static/js/main.a1c42d78.chunk.js"
   ]
 }
